@@ -1,0 +1,10 @@
+﻿# 自动处理文本换行
+
+*.py text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+
+*.ipynb text
